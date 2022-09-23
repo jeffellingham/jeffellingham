@@ -1,4 +1,4 @@
-## Hi There 🙋‍♂️
+## Hi there 🙋‍♂️
 
 ---
 
@@ -16,4 +16,7 @@ I'm Jeff, a self-taught Data Analyst and Storyteller currently in Florida.
 
 💻 My Projects:
 
-- 
+- [Kaggle Profile](https://www.kaggle.com/jeffellingham)
+  - [Capstone Project for Google's Data Analytics Professional Certification](https://www.kaggle.com/code/jeffellingham/bellabeat-eda-project) --- This is the final
+  deliverable from my first major project, which took me through every step of the analytics process. I developed potential growth opportunities and marketing strategies for Bellabeat, a health-focused smart device company for women, after gaining insights from an exploratory data analysis into a competitor's smart device data.
+  - 
